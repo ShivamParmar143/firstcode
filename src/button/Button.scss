@@ -1,0 +1,14 @@
+@import '../mixin.scss';
+
+.btn{
+    
+    @include flexcenter;
+
+    button{
+        background:linear-gradient(to right, black,grey);
+        color: white;
+        position: relative;
+        bottom: 80px;
+    }
+}
+

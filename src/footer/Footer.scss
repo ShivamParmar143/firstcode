@@ -1,0 +1,21 @@
+@import '../mixin.scss';
+
+.foot{
+    @include flexcenter;
+
+    background-color: rgb(252, 207, 214);
+    color: black;
+    height: 150px;
+    position: relative;
+    margin-bottom: 0px;
+}
+
+#btn5{
+    display: flex;
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 70px;
+    right: 610px;
+    position: absolute;
+}

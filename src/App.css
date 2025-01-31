@@ -1,0 +1,16 @@
+.main{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  height: 500px;
+  width: auto;
+  gap: 130px;
+  background-color: beige;
+  position: relative;
+  padding: 10px;
+}
+
+.container1,.container2,.container3{
+  border: 3px solid white;
+  height: 500px;
+  width: 400px;
+}
