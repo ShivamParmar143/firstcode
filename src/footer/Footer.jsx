@@ -8,7 +8,7 @@ const Footer = () => {
           <h1>contact us:</h1>
             
         </div>
-        <div className='contact'>
+        <div >
           <button id='btn5' type='button'>contact</button>
         </div>
     </div>
